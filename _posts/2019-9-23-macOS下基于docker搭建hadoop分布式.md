@@ -171,7 +171,7 @@ hadoop namenode -format
 安装ssh并将生成的密钥保存（这里的操作与伪分布式完全相同，参照书本即可完成）
 最后，我们将装好hadoop的镜像保存为一个新的镜像,这里注意容器的名称要对应
 
-![avatar](https://github.com/MRH2458215309/MRH2458215309.github.io/blob/master/2019-09-2311.24.59.png)
+![avatar](https://github.com/MRH2458215309/MRH2458215309.github.io/blob/master/11.24.59.png)
 ### hadoop分布式集群搭建 ###
 首先，我们要分别在3个终端分别启动一个master节点和两个slave节点，命令如下：
 ```
@@ -207,7 +207,7 @@ slave2
 start-all.sh
 ```
 具体成功截图如下：
-![avatar](https://github.com/MRH2458215309/MRH2458215309.github.io/blob/master/2019-09-2311.47.47.png)
+![avatar](https://github.com/MRH2458215309/MRH2458215309.github.io/blob/master/11.47.47.png)
 
 
 到此，hadoop完全分布式搭建完成，如有更好的方法或者发现本人的错误，请发送邮件给我（地址在主页）。
