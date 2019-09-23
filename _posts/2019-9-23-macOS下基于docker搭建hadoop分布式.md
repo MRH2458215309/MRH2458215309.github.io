@@ -114,6 +114,7 @@ mkdir datanode
 </configuration> 
 ```
 2. 配置hdfs-site.xml，在搭建集群时，我们需要一个master节点和两个slave节点，所以，我们replication设置为2:
+
 ```
 <configuration>
     <property>
@@ -141,6 +142,7 @@ mkdir datanode
 ```
 3. 配置mapred-site.xml
 首先变更一下现有文件名字
+
 ```
 cp mapred-site.xml.template mapred-site.xml
 ```
