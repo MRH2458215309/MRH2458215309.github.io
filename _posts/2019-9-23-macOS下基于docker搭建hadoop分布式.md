@@ -90,7 +90,7 @@ mkdir namenode
 mkdir datanode
 ```
 
-1. 配置core-site.xml
+配置core-site.xml
 
 ```
 <!-- Put site-specific property overrides in this file. -->
@@ -113,7 +113,7 @@ mkdir datanode
     </property>
 </configuration> 
 ```
-2. 配置hdfs-site.xml，在搭建集群时，我们需要一个master节点和两个slave节点，所以，我们replication设置为2:
+配置hdfs-site.xml，在搭建集群时，我们需要一个master节点和两个slave节点，所以，我们replication设置为2:
 
 
 ```
@@ -141,7 +141,7 @@ mkdir datanode
     </property>
 </configuration>
 ```
-3. 配置mapred-site.xml
+配置mapred-site.xml
 首先变更一下现有文件名字
 
 ```
@@ -160,16 +160,16 @@ cp mapred-site.xml.template mapred-site.xml
     </property>
 </configuration>
 ```
-4. 配置hadoop-env.sh
+配置hadoop-env.sh
 ```
 export JAVA_HOME=/usr/java/jdk1.8.0_141
 ```
-5. 格式化namenode
+格式化namenode
 ```
 hadoop namenode -format
 ```
-6. 安装ssh并将生成的密钥保存（这里的操作与伪分布式完全相同，参照书本即可完成）
-7. 最后，我们将装好hadoop的镜像保存为一个新的镜像,这里注意容器的名称要对应
+安装ssh并将生成的密钥保存（这里的操作与伪分布式完全相同，参照书本即可完成）
+最后，我们将装好hadoop的镜像保存为一个新的镜像,这里注意容器的名称要对应
 
 ![/4ebdc177d53ed72860684e0b28c73d5d.png](evernotecid://354512B1-D7B3-4E38-9946-D801F0C717A1/appyinxiangcom/26345172/ENResource/p3)
 ### hadoop分布式集群搭建 ###
