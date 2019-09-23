@@ -91,6 +91,7 @@ mkdir datanode
 ```
 
 1. 配置core-site.xml
+
 ```
 <!-- Put site-specific property overrides in this file. -->
 <configuration>
