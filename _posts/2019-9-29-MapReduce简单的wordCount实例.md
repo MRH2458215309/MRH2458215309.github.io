@@ -1,5 +1,3 @@
-# MapReduce简单的wordCount实例 #
-
 ### 使用MapReduce的前提条件 ###
 
    待处理的数据集可以分解成许多小的数据集，而且每一个小数据集都可以完全并行地进行处理。在wordCount程序任务中，不同的单词之间的频数不存在相关性，彼此独立，可以吧不同的单词分发给不同的机器进行处理。所以，我们可以使用MapReduce实现词频统计。
@@ -42,7 +40,7 @@ public static class TokenizerMapper extends Mapper<Object, Text, Text, IntWritab
 
    Map部分得到中间结果后，接下来会进入到shuffle阶段，这个阶段Hadoop会自动将Map的输出结果进行分区、排序、合并。但如果我们阅读过一些资料后，会发现，shuffle之后如果提供Combiner函数对中间结果进行合并后再发送给Reduce，会大大减少网络传输数据量。举个例子
 
-   没有Combiner函数之前：<"Hello",<1,1,1>>
+   没有Combiner函数之前：<"Hello",<1,1,1> >
 
    有Combiner函数之后：<"Hello",3>
 
