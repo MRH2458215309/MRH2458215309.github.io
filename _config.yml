@@ -29,7 +29,7 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Category: /category/
-    Donate: /Donate/
+    Donate: https://mrh2458215309.github.io/archivers/Donate
 
 permalink: /archivers/:title
 plugins:
