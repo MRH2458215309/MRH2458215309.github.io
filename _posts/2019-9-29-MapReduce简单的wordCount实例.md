@@ -1,3 +1,14 @@
+---
+layout: post
+title: MapRedcue简单的wordCount实例
+categories: 
+ - BigData
+permalink: /posts/1
+nocomments: true  # Disable the comment box. This is EasyBook feature
+---
+
+
+
 利用Java编写MapReduce程序需要以下几个步骤。
 
 1. 编写Map处理逻辑
