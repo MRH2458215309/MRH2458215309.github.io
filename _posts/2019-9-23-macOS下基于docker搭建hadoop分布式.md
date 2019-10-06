@@ -1,6 +1,16 @@
+---
+layout: post
+title: macOS下基于docker搭建hadoop分布式
+categories: 
+ - BigData
+permalink: /posts/1
+nocomments: true  # Disable the comment box. This is EasyBook feature
+---
+
 
 
 最近在学习大数据技术的原理和应用，需要搭建hadoop分布式集群。通常意义上讲，搭建Hadoop分布式最常见的方式有三种，一种是找多台机器上部署，二是在本地多开几个虚拟机，三是初学者最常用的方法（伪分布式）。前两种方法对硬件的要求有些苛刻，而第三种方式不能够真正体现分布式。所以，我选择利用docker搭建Hadoop分布式集群。
+
 ### 什么是docker ###
   Docker 是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的镜像中，然后发布到任何流行的 Linux或Windows 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。Docker的基础是linux容器（LXC）等技术。
   在介绍我的搭建过程之前，我先简单的介绍一下docker中的容器和镜像的关系：
@@ -213,4 +223,4 @@ start-all.sh
 到此，hadoop完全分布式搭建完成，如有更好的方法或者发现本人的错误，请发送邮件给我（地址在主页）。
 
 
-  
+
