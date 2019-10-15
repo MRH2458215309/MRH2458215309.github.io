@@ -3,7 +3,7 @@ layout: post
 title: MapRedcue简单的wordCount实例
 categories: 
  - BigData
-permalink: /posts/1
+permalink: /posts/2
 nocomments: true  # Disable the comment box. This is EasyBook feature
 ---
 
