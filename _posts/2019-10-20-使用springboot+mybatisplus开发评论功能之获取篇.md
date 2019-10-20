@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用springboot+mybatisplus开发评论功能
+title: 使用springboot+mybatisplus开发评论功能之获取篇
 categories: 
  - java
  - springboot
