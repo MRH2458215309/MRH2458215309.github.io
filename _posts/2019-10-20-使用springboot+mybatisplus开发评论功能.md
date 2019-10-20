@@ -31,82 +31,82 @@ nocomments: true  # Disable the comment box. This is EasyBook feature
 
 ```json
 {
-				"id": "5daace31f265da69f31e7f37",
-				"content": "大胖哥😄😄😄",
-				"userId": "5b857808e51d45387e51d2dd",
-				"respUser": "5788b15cc4c971005ed26744",
-				"respComment": "",
-				"userInfo": {
-					"objectId": "5b857808e51d45387e51d2dd",
-					"username": "Z_CC",
-					"avatarLarge": "https://user-gold-cdn.xitu.io/2019/3/9/1696265933aa6646?w=546&h=546&f=jpeg&s=342351",
-					"selfDescription": "",
-					"jobTitle": "前端工程师",
-					"company": "",
-					"viewedEntriesCount": 166,
-					"collectedEntriesCount": 1,
-					"level": 0,
-					"isFollow": false
-				},
-				"respUserInfo": {
-					"objectId": "5788b15cc4c971005ed26744",
-					"username": "zz_jesse",
-					"avatarLarge": "https://user-gold-cdn.xitu.io/2019/9/6/16d024e432ffb853?w=390&h=256&f=png&s=35937",
-					"selfDescription": "公众号:前端张大胖,开源作品：SSR 开发骨架 Zz.js",
-					"jobTitle": "fe http://zz.bigerfe.com",
-					"company": "",
-					"viewedEntriesCount": 2501,
-					"collectedEntriesCount": 308,
-					"level": 3,
-					"isFollow": false
-				},
-				"likesCount": 0,
-				"picList": [],
-				"createdAt": "2019-10-19T08:49:53.885Z",
-				"updatedAt": "2019-10-19T08:49:53.885Z",
-				"subCount": 1,
-				"replyCount": 1,
-				"topComment": [{
-					"id": "5dab175fe51d453536f15223",
-					"content": "😄\u0000\u0000😃\u0000\u0000\u0000\u0000",
-					"userId": "5788b15cc4c971005ed26744",
-					"respUser": "5b857808e51d45387e51d2dd",
-					"respComment": "5daace31f265da69f31e7f37",
-					"userInfo": {
-						"objectId": "5788b15cc4c971005ed26744",
-						"username": "zz_jesse",
-						"avatarLarge": "https://user-gold-cdn.xitu.io/2019/9/6/16d024e432ffb853?w=390&h=256&f=png&s=35937",
-						"selfDescription": "公众号:前端张大胖,开源作品：SSR 开发骨架 Zz.js",
-						"jobTitle": "fe http://zz.bigerfe.com",
-						"company": "",
-						"viewedEntriesCount": 2501,
-						"collectedEntriesCount": 308,
-						"level": 3,
-						"isFollow": false
-					},
-					"respUserInfo": {
-						"objectId": "5b857808e51d45387e51d2dd",
-						"username": "Z_CC",
-						"avatarLarge": "https://user-gold-cdn.xitu.io/2019/3/9/1696265933aa6646?w=546&h=546&f=jpeg&s=342351",
-						"selfDescription": "",
-						"jobTitle": "前端工程师",
-						"company": "",
-						"viewedEntriesCount": 166,
-						"collectedEntriesCount": 1,
-						"level": 0,
-						"isFollow": false
-					},
-					"likesCount": 0,
-					"picList": [],
-					"createdAt": "2019-10-19T14:02:07.583Z",
-					"updatedAt": "2019-10-19T14:02:07.583Z",
-					"subCount": 0,
-					"replyCount": 0,
-					"topComment": null,
-					"isLiked": false
-				}],
-				"isLiked": false
-			}
+  "id": "5daace31f265da69f31e7f37",
+  "content": "大胖哥😄😄😄",
+  "userId": "5b857808e51d45387e51d2dd",
+  "respUser": "5788b15cc4c971005ed26744",
+  "respComment": "",
+  "userInfo": {
+      "objectId": "5b857808e51d45387e51d2dd",
+      "username": "Z_CC",
+      "avatarLarge": "https://user-gold-cdn.xitu.io/2019/3/9/1696265933aa6646?w=546&h=546&f=jpeg&s=342351",
+      "selfDescription": "",
+      "jobTitle": "前端工程师",
+      "company": "",
+      "viewedEntriesCount": 166,
+      "collectedEntriesCount": 1,
+      "level": 0,
+      "isFollow": false
+    },
+  "respUserInfo": {
+      "objectId": "5788b15cc4c971005ed26744",
+      "username": "zz_jesse",
+      "avatarLarge": "https://user-gold-cdn.xitu.io/2019/9/6/16d024e432ffb853?w=390&h=256&f=png&s=35937",
+      "selfDescription": "公众号:前端张大胖,开源作品：SSR 开发骨架 Zz.js",
+      "jobTitle": "fe http://zz.bigerfe.com",
+      "company": "",
+      "viewedEntriesCount": 2501,
+      "collectedEntriesCount": 308,
+      "level": 3,
+      "isFollow": false
+    },
+  "likesCount": 0,
+  "picList": [],
+  "createdAt": "2019-10-19T08:49:53.885Z",
+  "updatedAt": "2019-10-19T08:49:53.885Z",
+  "subCount": 1,
+  "replyCount": 1,
+  "topComment": [{
+  "id": "5dab175fe51d453536f15223",
+  "content": "😄\u0000\u0000😃\u0000\u0000\u0000\u0000",
+  "userId": "5788b15cc4c971005ed26744",
+  "respUser": "5b857808e51d45387e51d2dd",
+  "respComment": "5daace31f265da69f31e7f37",
+  "userInfo": {
+    "objectId": "5788b15cc4c971005ed26744",
+    "username": "zz_jesse",
+    "avatarLarge": "https://user-gold-cdn.xitu.io/2019/9/6/16d024e432ffb853?w=390&h=256&f=png&s=35937",
+    "selfDescription": "公众号:前端张大胖,开源作品：SSR 开发骨架 Zz.js",
+    "jobTitle": "fe http://zz.bigerfe.com",
+    "company": "",
+    "viewedEntriesCount": 2501,
+    "collectedEntriesCount": 308,
+    "level": 3,
+    "isFollow": false
+   },
+  "respUserInfo": {
+    "objectId": "5b857808e51d45387e51d2dd",
+    "username": "Z_CC",
+    "avatarLarge": "https://user-gold-cdn.xitu.io/2019/3/9/1696265933aa6646?w=546&h=546&f=jpeg&s=342351",
+    "selfDescription": "",
+    "jobTitle": "前端工程师",
+    "company": "",
+    "viewedEntriesCount": 166,
+    "collectedEntriesCount": 1,
+    "level": 0,
+    "isFollow": false
+    },
+  "likesCount": 0,
+  "picList": [],
+  "createdAt": "2019-10-19T14:02:07.583Z",
+  "updatedAt": "2019-10-19T14:02:07.583Z",
+  "subCount": 0,
+  "replyCount": 0,
+  "topComment": null,
+  "isLiked": false
+  }],
+  "isLiked": false
+}
 ```
 
 参考一下这个例子，这是一个完整一个评论给模块，我们来分析一下：向前端传送的字段要包括，评论id、评论内容、评论人id、被评论人id、评论人详细信息（主要用来获取用户头像）、被评论人详细信息、该评论点赞数、当前用户是否点赞、评论时间以及更新时间。
