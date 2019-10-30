@@ -4,7 +4,7 @@ title: TensorFlow Installation
 categories: 
  - BigData
 permalink: /posts/5
-nocomments: true  # Disable the comment box. This is EasyBook feature
+nocomments: false  # Disable the comment box. This is EasyBook feature
 ---
 
 TensorFlow is a powerful open source software library for numerical computation, particular well suited and fine-tuned for large-scale Machine Learning. Its basic principle is simple: you first define in Python a graph of computations to perform, and then TensorFlow takes that graph and runs it efficiently using optimizing C++ code. In this blog, I would like to install TensorFlow whether using macOS or linux, in order to continue operating on TensorFlow. 
