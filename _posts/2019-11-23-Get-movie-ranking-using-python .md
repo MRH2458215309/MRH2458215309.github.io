@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TensorFlow Installation
+title: Get movie ranking using python
 categories: 
  - python
 permalink: /posts/6
