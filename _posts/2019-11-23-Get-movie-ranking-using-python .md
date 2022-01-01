@@ -96,7 +96,7 @@ for i in range(0, 2):
 
 Finally, the csvFile looks like this:
 
-![avatar](/movie.png)
+![avatar](https://s6.jpg.cm/2021/11/27/LLIari.png)
 
 Appendix：
 
